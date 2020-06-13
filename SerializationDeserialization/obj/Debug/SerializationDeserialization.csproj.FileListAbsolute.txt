@@ -1,0 +1,6 @@
+D:\WorkSpace\CodesOfCSharp\SerializationDeserialization\bin\Debug\SerializationDeserialization.exe.config
+D:\WorkSpace\CodesOfCSharp\SerializationDeserialization\bin\Debug\SerializationDeserialization.exe
+D:\WorkSpace\CodesOfCSharp\SerializationDeserialization\bin\Debug\SerializationDeserialization.pdb
+D:\WorkSpace\CodesOfCSharp\SerializationDeserialization\obj\Debug\SerializationDeserialization.csprojAssemblyReference.cache
+D:\WorkSpace\CodesOfCSharp\SerializationDeserialization\obj\Debug\SerializationDeserialization.exe
+D:\WorkSpace\CodesOfCSharp\SerializationDeserialization\obj\Debug\SerializationDeserialization.pdb
