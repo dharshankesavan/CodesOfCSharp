@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/CodesOfCSharp/.vs/CodesOfCSharp/v16/Server/sqlite3/db.lock
+/CodesOfCSharp/.vs/CodesOfCSharp/v16/Server/sqlite3/storage.ide
+/CodesOfCSharp/.vs/CodesOfCSharp/v16/Server/sqlite3/storage.ide-shm
+/CodesOfCSharp/.vs/CodesOfCSharp/v16/Server/sqlite3/storage.ide-wal
