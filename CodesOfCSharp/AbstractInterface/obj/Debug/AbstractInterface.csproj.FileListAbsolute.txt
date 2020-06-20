@@ -1,0 +1,6 @@
+D:\WorkSpace\CodesOfCSharp\CodesOfCSharp\AbstractInterface\bin\Debug\AbstractInterface.exe.config
+D:\WorkSpace\CodesOfCSharp\CodesOfCSharp\AbstractInterface\bin\Debug\AbstractInterface.exe
+D:\WorkSpace\CodesOfCSharp\CodesOfCSharp\AbstractInterface\bin\Debug\AbstractInterface.pdb
+D:\WorkSpace\CodesOfCSharp\CodesOfCSharp\AbstractInterface\obj\Debug\AbstractInterface.csprojAssemblyReference.cache
+D:\WorkSpace\CodesOfCSharp\CodesOfCSharp\AbstractInterface\obj\Debug\AbstractInterface.exe
+D:\WorkSpace\CodesOfCSharp\CodesOfCSharp\AbstractInterface\obj\Debug\AbstractInterface.pdb
